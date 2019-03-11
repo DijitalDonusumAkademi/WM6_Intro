@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHemsire xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Hemsire>
+    <Ad>İdil</Ad>
+    <Soyad>Yenicesu</Soyad>
+    <Telefon>(555)942 90 50</Telefon>
+    <Email>yidil@gmail.com</Email>
+    <TCKN>20904809574</TCKN>
+    <Maas>2100</Maas>
+    <Branslar>KulakBurunBoğazHastalıkları</Branslar>
+    <atandiMi>true</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>İlhan</Ad>
+    <Soyad>Ocak</Soyad>
+    <Telefon>(554)746 69 56</Telefon>
+    <Email>iocak@gmail.com</Email>
+    <TCKN>20984938950</TCKN>
+    <Maas>2100</Maas>
+    <Branslar>KalpVeDamarCerrahisi</Branslar>
+    <atandiMi>true</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Alper</Ad>
+    <Soyad>Özbaş</Soyad>
+    <Telefon>(545)550 84 90</Telefon>
+    <Email>aozbas@gmail.com</Email>
+    <TCKN>20948397475</TCKN>
+    <Maas>2400</Maas>
+    <Branslar>KalpVeDamarCerrahisi</Branslar>
+    <atandiMi>true</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>İpek</Ad>
+    <Soyad>Soylu</Soyad>
+    <Telefon>(544)589 25 07</Telefon>
+    <Email>isoylu@gmail.com</Email>
+    <TCKN>22849347758</TCKN>
+    <Maas>1000</Maas>
+    <Branslar>GenelCerrahi</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Barış</Ad>
+    <Soyad>Külfe</Soyad>
+    <Telefon>(555)457 85 60</Telefon>
+    <Email>bkulfe@gmail.com</Email>
+    <TCKN>20948478578</TCKN>
+    <Maas>2500</Maas>
+    <Branslar>AğızVeDişSağlığı</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Işıl</Ad>
+    <Soyad>Petek</Soyad>
+    <Telefon>(535)698 46 98</Telefon>
+    <Email>iptek@gmail.com</Email>
+    <TCKN>09437845748</TCKN>
+    <Maas>1000</Maas>
+    <Branslar>GenelCerrahi</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Filiz</Ad>
+    <Soyad>Arslan</Soyad>
+    <Telefon>(535)948 59 40</Telefon>
+    <Email>farslan@gmail.com</Email>
+    <TCKN>86343726973</TCKN>
+    <Maas>2000</Maas>
+    <Branslar>GöğüsHastalıkları</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Hülya</Ad>
+    <Soyad>Nacar</Soyad>
+    <Telefon>(545)767 56 05</Telefon>
+    <Email>hnacar@gmail.com</Email>
+    <TCKN>32904745457</TCKN>
+    <Maas>2000</Maas>
+    <Branslar>GözHastalıkları</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Fırat</Ad>
+    <Soyad>Erdoğan</Soyad>
+    <Telefon>(535)854 98 54</Telefon>
+    <Email>ferdogan@gmail.com</Email>
+    <TCKN>38439843549</TCKN>
+    <Maas>2000</Maas>
+    <Branslar>İçHastalıkları</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Zeynep</Ad>
+    <Soyad>Gül</Soyad>
+    <Telefon>(555)739 84 73</Telefon>
+    <Email>zgul@gmail.com</Email>
+    <TCKN>83479284798</TCKN>
+    <Maas>2000</Maas>
+    <Branslar>GözHastalıkları</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Tuncay</Ad>
+    <Soyad>Aksoy</Soyad>
+    <Telefon>(555)597 40 57</Telefon>
+    <Email>taksoy@gmail.com</Email>
+    <TCKN>29749875485</TCKN>
+    <Maas>2000</Maas>
+    <Branslar>Kardiyoloji</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+  <Hemsire>
+    <Ad>Sedat</Ad>
+    <Soyad>Öktem</Soyad>
+    <Telefon>(555)320 98 50</Telefon>
+    <Email>soktem@gmail.com</Email>
+    <TCKN>29483094070</TCKN>
+    <Maas>2000</Maas>
+    <Branslar>PlastikCerrahi</Branslar>
+    <atandiMi>false</atandiMi>
+  </Hemsire>
+</ArrayOfHemsire>

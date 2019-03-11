@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfDoktor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doktor>
+    <Ad>Akın</Ad>
+    <Soyad>Yıldız</Soyad>
+    <Telefon>(555)837 43 87</Telefon>
+    <Email>ayildiz@gmail.com</Email>
+    <TCKN>12302973094</TCKN>
+    <Maas>3500</Maas>
+    <Branslar>AğızVeDişSağlığı</Branslar>
+    <Unvan>DisHekimi</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Güngör</Ad>
+    <Soyad>Ateş</Soyad>
+    <Telefon>(505)950 95 40</Telefon>
+    <Email>gates@gmail.com</Email>
+    <TCKN>19904239057</TCKN>
+    <Maas>3600</Maas>
+    <Branslar>KulakBurunBoğazHastalıkları</Branslar>
+    <Unvan>YardımcıDocent</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Oya</Ad>
+    <Soyad>Yönal</Soyad>
+    <Telefon>(535)872 58 47</Telefon>
+    <Email>oyonal@gmail.com</Email>
+    <TCKN>28595843950</TCKN>
+    <Maas>3600</Maas>
+    <Branslar>Pedagoji</Branslar>
+    <Unvan>Pedagog</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Gülseren</Ad>
+    <Soyad>Kayalar</Soyad>
+    <Telefon>(533)934 90 50</Telefon>
+    <Email>gkayalar@gmail.com</Email>
+    <TCKN>32470754507</TCKN>
+    <Maas>3700</Maas>
+    <Branslar>GöğüsHastalıkları</Branslar>
+    <Unvan>OperatorDoktor</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Ahmet</Ad>
+    <Soyad>Demir</Soyad>
+    <Telefon>(535)798 45 74</Telefon>
+    <Email>ademir@gmail.com</Email>
+    <TCKN>72837485748</TCKN>
+    <Maas>4800</Maas>
+    <Branslar>KalpVeDamarCerrahisi</Branslar>
+    <Unvan>Profesor</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Görkem</Ad>
+    <Soyad>Sucu</Soyad>
+    <Telefon>(545)374 09 75</Telefon>
+    <Email>gsucu@gmail.com</Email>
+    <TCKN>29489454095</TCKN>
+    <Maas>3300</Maas>
+    <Branslar>AğızVeDişSağlığı</Branslar>
+    <Unvan>DisHekimi</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Birsel</Ad>
+    <Soyad>Kavaklı</Soyad>
+    <Telefon>(555)458 09 80</Telefon>
+    <Email>bkavakli@gmail.com</Email>
+    <TCKN>20948498020</TCKN>
+    <Maas>3500</Maas>
+    <Branslar>BeslenmeVeDiyet</Branslar>
+    <Unvan>Diyetisyen</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Serkan</Ad>
+    <Soyad>Akdağ</Soyad>
+    <Telefon>(535)674 59 48</Telefon>
+    <Email>sakdag@gmail.com</Email>
+    <TCKN>20498572755</TCKN>
+    <Maas>4100</Maas>
+    <Branslar>KalpVeDamarCerrahisi</Branslar>
+    <Unvan>Profesor</Unvan>
+    <dHemsire />
+  </Doktor>
+  <Doktor>
+    <Ad>Semra</Ad>
+    <Soyad>Kahraman</Soyad>
+    <Telefon>(535)655 08 00</Telefon>
+    <Email>skahraman@gmail.com</Email>
+    <TCKN>28409574578</TCKN>
+    <Maas>3500</Maas>
+    <Branslar>KalpVeDamarCerrahisi</Branslar>
+    <Unvan>UzmanDoktor</Unvan>
+    <dHemsire>
+      <Hemsire>
+        <Ad>Alper</Ad>
+        <Soyad>Özbaş</Soyad>
+        <Telefon>(545)550 84 90</Telefon>
+        <Email>aozbas@gmail.com</Email>
+        <TCKN>20948397475</TCKN>
+        <Maas>2400</Maas>
+        <Branslar>KalpVeDamarCerrahisi</Branslar>
+        <atandiMi>true</atandiMi>
+      </Hemsire>
+      <Hemsire>
+        <Ad>Alper</Ad>
+        <Soyad>Özbaş</Soyad>
+        <Telefon>(545)550 84 90</Telefon>
+        <Email>aozbas@gmail.com</Email>
+        <TCKN>20948397475</TCKN>
+        <Maas>2400</Maas>
+        <Branslar>KalpVeDamarCerrahisi</Branslar>
+        <atandiMi>true</atandiMi>
+      </Hemsire>
+    </dHemsire>
+  </Doktor>
+  <Doktor>
+    <Ad>Ömer</Ad>
+    <Soyad>Göktekin</Soyad>
+    <Telefon>(555)950 50 49</Telefon>
+    <Email>ogoktekin@gmail.com</Email>
+    <TCKN>28347857438</TCKN>
+    <Maas>3700</Maas>
+    <Branslar>KulakBurunBoğazHastalıkları</Branslar>
+    <Unvan>Docent</Unvan>
+    <dHemsire>
+      <Hemsire>
+        <Ad>İdil</Ad>
+        <Soyad>Yenicesu</Soyad>
+        <Telefon>(555)942 90 50</Telefon>
+        <Email>yidil@gmail.com</Email>
+        <TCKN>20904809574</TCKN>
+        <Maas>2100</Maas>
+        <Branslar>KulakBurunBoğazHastalıkları</Branslar>
+        <atandiMi>true</atandiMi>
+      </Hemsire>
+      <Hemsire>
+        <Ad>İdil</Ad>
+        <Soyad>Yenicesu</Soyad>
+        <Telefon>(555)942 90 50</Telefon>
+        <Email>yidil@gmail.com</Email>
+        <TCKN>20904809574</TCKN>
+        <Maas>2100</Maas>
+        <Branslar>KulakBurunBoğazHastalıkları</Branslar>
+        <atandiMi>true</atandiMi>
+      </Hemsire>
+    </dHemsire>
+  </Doktor>
+  <Doktor>
+    <Ad>Abdullah</Ad>
+    <Soyad>Erdem</Soyad>
+    <Telefon>(533)754 95 84</Telefon>
+    <Email>aerdem@gmail.com</Email>
+    <TCKN>32748957485</TCKN>
+    <Maas>1000</Maas>
+    <Branslar>GözHastalıkları</Branslar>
+    <Unvan>OperatorDoktor</Unvan>
+    <dHemsire>
+      <Hemsire>
+        <Ad>Zeynep</Ad>
+        <Soyad>Gül</Soyad>
+        <Telefon>(555)739 84 73</Telefon>
+        <Email>zgul@gmail.com</Email>
+        <TCKN>83479284798</TCKN>
+        <Maas>2000</Maas>
+        <Branslar>GözHastalıkları</Branslar>
+        <atandiMi>false</atandiMi>
+      </Hemsire>
+      <Hemsire>
+        <Ad>Zeynep</Ad>
+        <Soyad>Gül</Soyad>
+        <Telefon>(555)739 84 73</Telefon>
+        <Email>zgul@gmail.com</Email>
+        <TCKN>83479284798</TCKN>
+        <Maas>2000</Maas>
+        <Branslar>GözHastalıkları</Branslar>
+        <atandiMi>false</atandiMi>
+      </Hemsire>
+    </dHemsire>
+  </Doktor>
+  <Doktor>
+    <Ad>Mustafa</Ad>
+    <Soyad>Keskin</Soyad>
+    <Telefon>(545)586 75 67</Telefon>
+    <Email>mkeskin@gmail.com</Email>
+    <TCKN>23984945849</TCKN>
+    <Maas>1000</Maas>
+    <Branslar>İçHastalıkları</Branslar>
+    <Unvan>YardımcıDocent</Unvan>
+    <dHemsire>
+      <Hemsire>
+        <Ad>Fırat</Ad>
+        <Soyad>Erdoğan</Soyad>
+        <Telefon>(535)854 98 54</Telefon>
+        <Email>ferdogan@gmail.com</Email>
+        <TCKN>38439843549</TCKN>
+        <Maas>2000</Maas>
+        <Branslar>İçHastalıkları</Branslar>
+        <atandiMi>false</atandiMi>
+      </Hemsire>
+      <Hemsire>
+        <Ad>Fırat</Ad>
+        <Soyad>Erdoğan</Soyad>
+        <Telefon>(535)854 98 54</Telefon>
+        <Email>ferdogan@gmail.com</Email>
+        <TCKN>38439843549</TCKN>
+        <Maas>2000</Maas>
+        <Branslar>İçHastalıkları</Branslar>
+        <atandiMi>false</atandiMi>
+      </Hemsire>
+    </dHemsire>
+  </Doktor>
+</ArrayOfDoktor>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersonel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Personel>
+    <Ad>Aslı</Ad>
+    <Soyad>Tapan</Soyad>
+    <Telefon>(535)684 95 48</Telefon>
+    <Email>atapan@gmail.com</Email>
+    <TCKN>20932847756</TCKN>
+    <Maas>2400</Maas>
+    <Gorev>Hastakabulmemuru</Gorev>
+  </Personel>
+  <Personel>
+    <Ad>Kemal</Ad>
+    <Soyad>Ertaş</Soyad>
+    <Telefon>(504)874 08 27</Telefon>
+    <Email>kertas@gmail.com</Email>
+    <TCKN>39473575835</TCKN>
+    <Maas>2400</Maas>
+    <Gorev>Ambarvedepomemuru</Gorev>
+  </Personel>
+  <Personel>
+    <Ad>Cem</Ad>
+    <Soyad>Devge</Soyad>
+    <Telefon>(533)748 75 84</Telefon>
+    <Email>cdevge@gmail.com</Email>
+    <TCKN>23434785748</TCKN>
+    <Maas>2600</Maas>
+    <Gorev>Laboratuvarsef</Gorev>
+  </Personel>
+</ArrayOfPersonel>
